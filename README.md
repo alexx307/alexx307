@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alexx307/alexx307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=F7D1F0&center=true&vCenter=true&width=750&lines=Poupi+poupi+poupi+pou;Hi+I'm+Alex;Welcome+to+my+GitHub+profile" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 👨‍💻 About Me
+
+- 👋 I'm **Alex**
+
+<br>
+
+<div align="right">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexx307&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx307&layout=compact&theme=omni"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexx307&theme=omni"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/alexx307/alexx307/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,php,go,vue,c,python,js,html,css,git,github,vscode,linux"/>
+
+</div>
+
+#
+
+<div align="center">
+
+✨ **Made with <3 by Alex** ✨
+
+</div>

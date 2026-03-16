@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,php,go,vue,c,python,js,html,css,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=rust,php,go,vue,c,cs,cpp,python,js,html,css,git,github,vscode,linux,asm"/>
 
 </div>
 

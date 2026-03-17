@@ -6,9 +6,21 @@
 
 <br>
 
+<p align="left">
+  <img src="./Joyce RD.png" width="190" align="right" />
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
 ## 👨‍💻 About Me
 
 - 👋 I'm **Alex**
+- 🔭 I'm **Alex**
+- 🌱 I’m currently **Alex**
+- 💬 Ask me about **Alex**
 
 <br>
 

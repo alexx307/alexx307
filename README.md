@@ -7,9 +7,10 @@
 <br>
 
 <p align="left">
-  <img src="./Baily Rine.png" width="190" align="right" />
+  <img src="./Baily Rine.png" width="200" align="right" />
 </p>
 
+<br>
 <br>
 <br>
 <br>

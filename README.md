@@ -31,7 +31,7 @@
 
 <br>
 
-<img height="120em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexx307&layout=compact&theme=omni"/>
+<img height="140em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexx307&layout=compact&theme=omni"/>
 
 </div>
 

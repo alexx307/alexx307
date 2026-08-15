@@ -19,9 +19,9 @@
 ## 👨‍💻 About Me
 
 - 👋 I'm **Alex**
-- 🔭 I'm **bwa bwa **
+- 🔭 I'm **bwa bwa**
 - 🌱 I’m currently **Alex**
-- 💬 Ask me about **Bwaaaaaaaaaaaaah bwaaah  **
+- 💬 Ask me about **Bwaaaaaaaaaaaaah bwaaah**
 
 <br>
 
